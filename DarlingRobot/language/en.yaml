@@ -35,7 +35,7 @@ pm_about_text: |
 
 
   _Mai Sakurajima's licensed under the GNU General Public License v3.0_
-  *Click on button bellow to get basic help for Zero Two.*
+  *Click on button bellow to get basic help for Mai Sakurajima.*
 pm_about_admin_text: |
   *✦ Let's make your group more powerful ✦*
 
@@ -54,9 +54,9 @@ pm_about_notes_text: |
   ✦ You can save message/media/audio or anything as notes to get a note simply use # at the beginning of a word
   ✦ You can also set buttons for notes and filters (refer help menu)
 pm_about_support_text: |
-  *✧ Zero Two support chats ✧*
+  *✧ Mai Sakurajima support chats ✧*
 
-  Join My Support Group/Channel for see or report a problem on Zero Two.
+  Join My Support Group/Channel for see or report a problem on Mai Sakurajima.
 pm_about_credit_text: |
   *ꨄ Mai Sakurajima System infoꨄ*
 
@@ -253,7 +253,7 @@ blacklist_help: |
 chatbot_help: |
     ▬▬✘ Chatbot ✘▬▬
 
-    ✘ Commands for Zero Two Chatbot ✘
+    ✘ Commands for Mai Sakurajima Chatbot ✘
 
     ➻ /chatbot [ON/OFF]: Enables and disables Chatbot mode.
     ➻ /chatbot EN : Enables English only chatbot.
@@ -349,7 +349,7 @@ fsub_feds_help: |
 
     *✘ Force Subscribe:*
 
-    Zero Two can mute members who are not subscribed your channel until they subscribe When enabled I will mute unsubscribed members and show them a unmute button. When they pressed the button I will unmute them
+    Mai Sakurajima can mute members who are not subscribed your channel until they subscribe When enabled I will mute unsubscribed members and show them a unmute button. When they pressed the button I will unmute them
 
     *Setup* *:* *Only creator*
     ➻ Add me in your group as admin
@@ -673,9 +673,9 @@ search_help: |
     ➻ /github <username>*:* Get information about a GitHub user.
     ➻ /country <country name>*:* Gathering info about given country
     ➻ /imdb <Movie name>*:* Get full info about a movie with imdb.com
-    ➻ Zero Two <query>*:* Zero Two answers the query
+    ➻ Mai Sakurajima <query>*:* Mai Sakurajima answers the query
 
-    ✧ Ex : `Zero Two where is Japan?`
+    ✧ Ex : `Mai Sakurajima where is Japan?`
 stikrs_help: |
     ▬▬✘ Stickers ✘▬▬
 
