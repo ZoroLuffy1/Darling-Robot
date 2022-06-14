@@ -10,7 +10,7 @@ set_chat_lang: "**Great, using {} Language it is from now on!**"
 # PM Text
 pm_start_text: |
   *✧ ᴏɪ ᴏɪ ᴏɪ*, *{}* *ʙᴀᴋᴀ*
-  *ᴍʏsᴇʟғ :*- *ᴢᴇʀᴏ ᴛᴡᴏ, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴀ*[🎀](https://telegra.ph/file/8ff585d720597f7ff660e.mp4)
+  *ᴍʏsᴇʟғ :*- *Mai Sakurajima, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴀ*[🎀](https://telegra.ph/file/f7cb80c5e89b7f7f6e911.jpg)
   *ɪ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ɪɴ ᴍᴀɴᴀɢɪɴɢ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪғ ʏᴏᴜ ᴡᴀɴᴛ*!
    ┏━━━━━━━:*¨ ✘♚✘ ¨*:━━━━━━━┓
     × *ᴀʟɪᴠᴇ sɪɴᴄᴇ :* {}
@@ -21,10 +21,10 @@ pm_start_text: |
 group_start_text: |
   *ʜᴏɪ ʜᴏɪ, ɪ'ᴍ ʜᴇʀᴇ....ᴅᴏɴ'ᴛ ᴡᴏʀʀʏ!*
 
-  *๏ ᴀʟɪᴠᴇ sɪɴᴄᴇ :* `{}` [🌸](https://telegra.ph/file/c6b06fc802033e27e077c.mp4)
+  *๏ ᴀʟɪᴠᴇ sɪɴᴄᴇ :* `{}` [🌸](https://telegra.ph/file/054c12f65591fd05fab5a.jpg)
 
 pm_about_text: |
-  ✧ Hey Babes I'm *Zero Two*, a powerful group management bot built to help you manage your group easily. ✧
+  ✧ Hey Babes I'm *Mai Sakurajima*, a powerful group management bot built to help you manage your group easily. ✧
 
   *➻ I can restrict users.*
   *➻ I can greet users with customizable welcome messages and even set a group's rules.*
@@ -34,12 +34,12 @@ pm_about_text: |
   *➻ I check for admins' permissions before executing any command and more stuffs.*
 
 
-  _Zero Two's licensed under the GNU General Public License v3.0_
+  _Mai Sakurajima's licensed under the GNU General Public License v3.0_
   *Click on button bellow to get basic help for Zero Two.*
 pm_about_admin_text: |
   *✦ Let's make your group more powerful ✦*
 
-  *ꨄ Congragulations, Zero Two now ready to manage your group. ꨄ*
+  *ꨄ Congragulations, Mai Sakurajima now ready to manage your group. ꨄ*
 
   *✘ Admin Tools ✘*
   Basic Admin tools help you to protect and powerup your group.
@@ -58,7 +58,7 @@ pm_about_support_text: |
 
   Join My Support Group/Channel for see or report a problem on Zero Two.
 pm_about_credit_text: |
-  *ꨄ Zero Two System infoꨄ*
+  *ꨄ Mai Sakurajima System infoꨄ*
 
   **×͜× About Vortex System.×͜×**
   
