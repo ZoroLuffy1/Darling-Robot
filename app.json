@@ -23,37 +23,37 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather",
          "required": true,
-         "value": ""
+         "value": "5471224697:AAH-2k1Ab58KM8rxUqznm4Tm9OqHz7dazfk"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "9788797"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "65f1bcc4e1634cf0737418a6f18305ad"
       },    
       "DATABASE_URL": {
          "description": "Your postgres sql db, Go and get one at elephantSql.com .",
          "required": true,
-         "value": "sqldbtype://username:pw@hostname:port/db_name"
+         "value": "postgres://fwqrfpct:CrqaZoYR1CSiD90t1ZtRWAEiNFZOJhMJ@rajje.db.elephantsql.com/fwqrfpct"
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5080571598"
+         "value": "2092233990"
      },
 
       "STRING_SESSION": {
          "description": "Fill with telethon string session.",
          "required": true,
-         "value": "" 
+         "value": "1BVtsOG4BuzGnxny6r_FRWVQExaMvdJhXLjLfqmx46FT7sogphy-yVWrBCKLwlJTZuCOHF4b8hP3xIXCVdkaKbXyaFNYDPn4kosaJGtAASRY3IzCMf58OpRezwO_zQAh6U9Boke707zxMWqDwGKgbjpOL9w8xthHMKAeCxI6c4saofTzB8yp601kVSu-DVAbPKZ1Ix7_-Xftjst3S7aNDNFHUklPiUQMOba6PrWy49CI8sQVCwp_6jXDnX92xS2Jhjgy26tm8Teg5gQ6SXx0OrapJfpHIMnCgVdtOb3rplhzmXU1JvIuwbhGpEHgIVNxLLGDi218QS8ogSdfenxa8BjOeFbXflsg=" 
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
-        "value": ""
+        "value": "43ce51d3-0290-4706-96f8-1207cd24c600"
       },
       "HEROKU_APP_NAME": {
         "description": "Enter the Heroku app name here (Must an exact same name with your input above).",
@@ -61,27 +61,27 @@
       },
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "ZeroXDarlingbot"
+         "value": "MaiSakurajimaXRobot"
       },
 
       "BOT_ID": {
          "description": "to get your bot_id using other bot or userbot",
-         "value": ""
+         "value": "5471224697"
       },
 
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "X_Hate"
+         "value": "asta_est"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "ZeroTwoxsupport"
+         "value": "rukaxSuport"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": ""
+         "value": "mongodb+srv://zeke:123789@cluster0.tgldl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
       },
       "REDIS_URL": {
          "description": "This is important Var used for Afk time count and many more if added lmao.",
@@ -90,12 +90,12 @@
      "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-100"
+         "value": "-1001661857161"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-xyz"
+         "value": "-1001661857161"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
@@ -117,7 +117,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "1751235263"
+         "value": "2092233990"
      },
         "ARQ_API": {
             "description": "Get this from @ARQRobot.",
@@ -140,22 +140,22 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": ""
+         "value": "2092233990"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": ""
+         "value": "2092233990"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": ""
+         "value": "2092233990"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": ""
+         "value": "2092233990"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
@@ -193,7 +193,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://www.paypal.me/PaulSonOfLars"
+         "value": "https://www.paypal.me/"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
