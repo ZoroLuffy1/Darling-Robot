@@ -210,7 +210,7 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(text=gs(chat.id, "help_button"), callback_data="help_back"),
-                            InlineKeyboardButton(text=gs(chat.id, "owner_button"), url="t.me/xD_Zent"),
+                            InlineKeyboardButton(text=gs(chat.id, "owner_button"), url="t.me/asta_est"),
                         ],
                         [
                             InlineKeyboardButton(text=gs(chat.id, "network_button"), url="t.me/Sovereign_Network"),
@@ -239,12 +239,12 @@ def start(update: Update, context: CallbackContext):
                     [[
                         InlineKeyboardButton(
                             text="• ᴏᴡɴᴇʀ •",
-                            url="t.me/xD_Zent")
+                            url="t.me/asta_est")
                     ],
                     [
                         InlineKeyboardButton(
                             text="• sᴜᴘᴘᴏʀᴛ •",
-                            url="https://t.me/AckermanXClan"),
+                            url="https://t.me/rukaxSuport"),
                         InlineKeyboardButton(
                             text="• ʜᴇʟᴘ •",
                             url="https://t.me/FoundingTitanBot?start=help")
