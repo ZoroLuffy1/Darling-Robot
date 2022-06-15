@@ -1,13 +1,13 @@
 
 
 
-![Zero Two](https://telegra.ph/file/6b95091d3cac576327002.jpg)
+![Mai](https://telegra.ph/file/6b95091d3cac576327002.jpg)
 
 
 
 <p>
   <center>
-   I'm Zero Two From Anime Darling In the FRANXX!!
+   I'm Mai From Anime Bunny Girl Senpai!!
   </center>
 </p>
 
@@ -15,18 +15,18 @@
 
 ## A Powerful and Modular
 
-Zero Two is a Characther powerful in Darling in The FRANXX anime and modular telegram group management bot built using python3 and sqlalchemy. Literally she can do anything to help you make your group a better place like any other bot and she's painted with anime theme for weeb lover's.
+Mai is a Characther in bunny girl senpai anime and modular telegram group management bot built using python3 and sqlalchemy. Literally she can do anything to help you make your group a better place like any other bot and she's painted with anime theme for weeb lover's.
 
 ### Deploy To Heroku </h4>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/XhateXd/Darling-Robot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ZoroLuffy1/Darling-Robot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
 ## NOTE:
 
   I'm making this note to whoever comes to see this repo. (I came through a lot to make this bot) - I would not say such dumb thing like this, the whole credits goes to [SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot). You might ask me what you did?, well i did some edits with my knowledge to make this bot like my own. I don't give a shit about any illegal problems if anyone comes with that GPLv3 license stuff. After all i came through a lot from many developers, No one ever told me/us anything not even a simple guide. So i will make this repo public so anyone can learn or get code from here for my future updates.
 ## Bot stuff
 
-* Owner link : [Xhate](https://t.me/X_hate)
+* Owner link : [Kirito](https://t.me/asta_est)
 
 
 ## CREDITS
