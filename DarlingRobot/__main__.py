@@ -425,7 +425,7 @@ def darling_about_callback(update, context):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton(text=gs(chat.id, "add_bot_to_group_button"),
+                            InlineKeyboardButton(text=gs(chat.id, "about_button"), callback_data="darling_"),
                         ],
                         [
                             InlineKeyboardButton(text=gs(chat.id, "help_button"), callback_data="help_back"),
@@ -436,7 +436,7 @@ def darling_about_callback(update, context):
                             InlineKeyboardButton(text=gs(chat.id, "ot_button"), url="t.me/estanimes"),
                         ],
                         [
-                            InlineKeyboardButton(text=gs(chat.id, "about_button"), callback_data="darling_"),
+                            InlineKeyboardButton(text=gs(chat.id, "add_bot_to_group_button"),
                         ]
                     ]
                 ),
