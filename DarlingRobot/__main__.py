@@ -206,15 +206,15 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton(text=gs(chat.id, "add_bot_to_group_button"), url="t.me/Foundingtitanbot?startgroup=new"),
+                            InlineKeyboardButton(text=gs(chat.id, "add_bot_to_group_button"), url="t.me/MaiSakurajimaXRobot?startgroup=new"),
                         ],
                         [
                             InlineKeyboardButton(text=gs(chat.id, "help_button"), callback_data="help_back"),
                             InlineKeyboardButton(text=gs(chat.id, "owner_button"), url="t.me/asta_est"),
                         ],
                         [
-                            InlineKeyboardButton(text=gs(chat.id, "network_button"), url="t.me/Sovereign_Network"),
-                            InlineKeyboardButton(text=gs(chat.id, "ot_button"), url="t.me/AckermanXClan"),
+                            InlineKeyboardButton(text=gs(chat.id, "network_button"), url="t.me/TeamXYZNetwork"),
+                            InlineKeyboardButton(text=gs(chat.id, "ot_button"), url="t.me/estanimes"),
                         ],
                         [
                             InlineKeyboardButton(
@@ -227,7 +227,7 @@ def start(update: Update, context: CallbackContext):
                 disable_web_page_preview=False,
             )
     else:
-        DARLINGSTART = "https://telegra.ph/file/abba1e3a7e38fbf096f00.jpg"
+        DARLINGSTART = "https://telegra.ph/file/13ea19e976103244c2c3a.jpg"
         first_name = update.effective_user.first_name
         update.effective_message.reply_photo(
            DARLINGSTART, caption= "<b> Hᴏɪ {} \nɪ'ᴍ ᴀʟɪᴠᴇ sɪɴᴄᴇ</b>: <code>{}</code>".format(
@@ -247,7 +247,7 @@ def start(update: Update, context: CallbackContext):
                             url="https://t.me/rukaxSuport"),
                         InlineKeyboardButton(
                             text="• ʜᴇʟᴘ •",
-                            url="https://t.me/FoundingTitanBot?start=help")
+                            url="https://t.me/MaiSakurajimaXRobot?start=help")
                     ]]))
         
                      
@@ -426,18 +426,18 @@ def darling_about_callback(update, context):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton(text=gs(chat.id, "about_button"), callback_data="darling_"),
+                            InlineKeyboardButton(text=gs(chat.id, "add_bot_to_group_button"),
                         ],
                         [
                             InlineKeyboardButton(text=gs(chat.id, "help_button"), callback_data="help_back"),
-                            InlineKeyboardButton(text=gs(chat.id, "owner_button"), url="t.me/xD_Zent"),
+                            InlineKeyboardButton(text=gs(chat.id, "owner_button"), url="t.me/asta_est"),
                         ],
                         [
-                            InlineKeyboardButton(text=gs(chat.id, "network_button"), url="t.me/Sovereign_Network"),
-                            InlineKeyboardButton(text=gs(chat.id, "ot_button"), url="t.me/AckermanXClan"),
+                            InlineKeyboardButton(text=gs(chat.id, "network_button"), url="t.me/TeamXYZNetwork"),
+                            InlineKeyboardButton(text=gs(chat.id, "ot_button"), url="t.me/estanimes"),
                         ],
                         [
-                            InlineKeyboardButton(text=gs(chat.id, "add_bot_to_group_button"), url="t.me/Foundingtitanbot?startgroup=new"),
+                            InlineKeyboardButton(text=gs(chat.id, "about_button"), callback_data="darling_"),
                         ]
                     ]
                 ),
@@ -479,8 +479,8 @@ def darling_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text=gs(chat.id, "support_chat_link_button"), url="t.me/AckermanXClan"),
-                        InlineKeyboardButton(text=gs(chat.id, "updates_channel_link_button"), url="https://t.me/FoundingtitanUpdatesx"),
+                        InlineKeyboardButton(text=gs(chat.id, "support_chat_link_button"), url="t.me/estanimes"),
+                        InlineKeyboardButton(text=gs(chat.id, "updates_channel_link_button"), url="https://t.me/MAIUpdatesx"),
                     ],
                     [
                         InlineKeyboardButton(text=gs(chat.id, "back_button"), callback_data="darling_"),
@@ -545,14 +545,14 @@ def Source_about_callback(update, context):
                         ],
                         [
                             InlineKeyboardButton(text=gs(chat.id, "help_button"), callback_data="help_back"),
-                            InlineKeyboardButton(text=gs(chat.id, "owner_button"), url="t.me/xD_Zent"),
+                            InlineKeyboardButton(text=gs(chat.id, "owner_button"), url="t.me/asta_est"),
                         ],
                         [
-                            InlineKeyboardButton(text=gs(chat.id, "network_button"), url="t.me/Sovereign_Network"),
-                            InlineKeyboardButton(text=gs(chat.id, "ot_button"), url="t.me/AckermanXClan"),
+                            InlineKeyboardButton(text=gs(chat.id, "network_button"), url="t.me/TeamXYZNetwork"),
+                            InlineKeyboardButton(text=gs(chat.id, "ot_button"), url="t.me/estanimes"),
                         ],
                         [
-                            InlineKeyboardButton(text=gs(chat.id, "add_bot_to_group_button"), url="t.me/Foundingtitanbot?startgroup=new"),
+                            InlineKeyboardButton(text=gs(chat.id, "add_bot_to_group_button"), url="t.me/MaiSakurajimaXRobot?startgroup=new"),
                         ]
                     ]
                 ),
